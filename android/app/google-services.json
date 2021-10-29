@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591638553792",
+    "project_id": "grossapp-73fb8",
+    "storage_bucket": "grossapp-73fb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591638553792:android:4ca610d2f55ded1ed1b925",
+        "android_client_info": {
+          "package_name": "com.example.grocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591638553792-msicf1jrh5917cvboetvpvf6hnjffl2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrt_VYnAW2FsYzBbYF-IIhaTGgbyayzak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591638553792-msicf1jrh5917cvboetvpvf6hnjffl2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
